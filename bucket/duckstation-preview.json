@@ -9,7 +9,7 @@
     "notes": [
         "ATTENTION: Duckstation requires a PSX BIOS to function.",
         "Place the BIOS file in $persist_dir\\bios",
-        "Learn more at: https://www.duckstation.org/wiki/BIOS"
+        "Learn more at: https://web.archive.org/web/20210620033009/https://www.duckstation.org/wiki/BIOS"
     ],
     "url": "https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip",
     "hash": "19e671eeb8e8212733c52c14b631b6195c97e9f7bc7d6e1e36f0eaf8d365ec59",
